@@ -14,7 +14,7 @@
 
 ## Cómo cargar y mostrar imágenes de Internet: Como agregar el repositorio y la insercion manual de dependencias
 
-
+![image](https://github.com/Luis4nge1/Unidad_5_Como_conectarse_a_Internet/assets/132635578/d205a768-972a-4ad9-8633-fedfcdf224fa)
 
 ## Cómo cargar y mostrar imágenes de Internet: Cargar y mostrar imagenes de internet
 
